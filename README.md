@@ -1,42 +1,59 @@
-# Hi 👋, I'm Avinash Vaghasiya
+<h1 align="center">Hi 👋, I'm Avinash Vaghasiya</h1>
 
-<div align="center">
+<h3 align="center">💻 Diploma in Computer Engineering Graduate</h3>
+<h3 align="center">🤖 AI & ML with Data Science Student</h3>
+<h3 align="center">🚀 Aspiring Data Scientist & AI Engineer</h3>
 
-### 🎓 AI & ML with Data Science Student
-
-### 💻 Diploma in Computer Engineering Graduate
-
-### 🚀 Aspiring Data Scientist & AI Engineer
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Learner;Web+Developer;Future+Data+Scientist;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a passionate technology enthusiast with a Diploma in Computer Engineering. I enjoy building web applications, learning new technologies, and solving real-world problems through programming and data-driven solutions.
+🎓 Diploma in Computer Engineering Graduate
 
-Currently, I am pursuing **AI & ML with Data Science** at **Red & White Institute**, where I am developing skills in Python, Machine Learning, Data Analysis, and Artificial Intelligence.
+📚 Currently pursuing **AI & ML with Data Science** at **Red & White Institute**
+
+🐍 Learning Python, Data Science, Machine Learning & Artificial Intelligence
+
+🌐 Experienced in building responsive and dynamic websites
+
+💡 Passionate about solving real-world problems using technology and data
+
+🎯 Goal: Become a skilled AI Engineer and Data Scientist
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-🎓 **Diploma in Computer Engineering**
+### Programming Languages
 
-📚 **AI & ML with Data Science**
+![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
 
-* Red & White Institute
-* Currently Learning Python, Data Science, Machine Learning & AI
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
 ## 🌱 Currently Learning
 
 * Python Programming
-* Data Structures & Algorithms
-* NumPy
-* Pandas
+* NumPy & Pandas
+* Data Analysis
 * Data Visualization
 * Machine Learning
 * Artificial Intelligence
@@ -44,81 +61,67 @@ Currently, I am pursuing **AI & ML with Data Science** at **Red & White Institut
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Featured Projects
 
-### Languages
+### 🛍️ Perfume Palace
 
-* Python
-* PHP
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* MySQL
-* VS Code
-* XAMPP
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Perfume Palace
-
-An e-commerce website for perfume products with a modern user interface.
+A modern e-commerce website for perfume products with product management and shopping features.
 
 🔗 https://perfume-palace.42web.io/perf/?i=1
 
 ### 🧪 Ocean Biochem
 
-A professional business website developed for Ocean Biochem.
+A professional corporate website developed for Ocean Biochem.
 
 🔗 https://oceanbiochem.co.in/
 
 ---
 
-## 📈 Current Goals
-
-* Master Python Programming
-* Build Data Science Projects
-* Learn Machine Learning Algorithms
-* Explore Deep Learning
-* Contribute to Open Source
-* Become an AI Engineer
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avinash-365&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avinash-365&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-365&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-365&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-365&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 2026 Goals
+
+✅ Master Python Programming
+
+✅ Build Data Science Projects
+
+✅ Learn Machine Learning & Deep Learning
+
+✅ Create AI-Based Applications
+
+✅ Contribute to Open Source
+
+✅ Secure an AI / Data Science Career Opportunity
+
+---
+
+## 📫 Connect With Me
 
 📧 Email: [23020201164@darshan.ac.in](mailto:23020201164@darshan.ac.in)
 
-💼 LinkedIn: www.linkedin.com/in/avinash-vaghasiya-023387413
+💼 LinkedIn:
+[www.linkedin.com/in/avinash-vaghasiya-023387413](http://www.linkedin.com/in/avinash-vaghasiya-023387413)
 
-🌐 Portfolio Projects:
-
-* Perfume Palace
-* Ocean Biochem
+🐙 GitHub:
+https://github.com/avinash-365
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ✨ "Learning Today, Building Tomorrow." ✨
+### ⭐ Learning Today, Building Tomorrow ⭐
 
-</div>
+*"Every expert was once a beginner."*
+
+</p>
