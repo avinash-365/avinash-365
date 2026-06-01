@@ -74,17 +74,12 @@ Professional Corporate Website developed for Ocean Biochem.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avinash-365&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-365&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-365&theme=tokyonight&hide_border=true" />
-</p>
-
+- 💻 Building Web Projects
+- 🐍 Learning Python
+- 🤖 Exploring AI & Machine Learning
+- 📚 Improving Data Science Skills
 ---
 
 ## 🎯 Current Goals
