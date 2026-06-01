@@ -1,53 +1,124 @@
-# Hi there 👋, I'm Avinash
+# Hi 👋, I'm Avinash Vaghasiya
 
-## 🚀 About Me
-🎓 Data Science Student
+<div align="center">
 
-🐍 Currently learning Python
+### 🎓 AI & ML with Data Science Student
 
-📊 Interested in Data Science, Machine Learning, and AI
+### 💻 Diploma in Computer Engineering Graduate
 
-💡 Building my programming skills one project at a time
+### 🚀 Aspiring Data Scientist & AI Engineer
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate technology enthusiast with a Diploma in Computer Engineering. I enjoy building web applications, learning new technologies, and solving real-world problems through programming and data-driven solutions.
+
+Currently, I am pursuing **AI & ML with Data Science** at **Red & White Institute**, where I am developing skills in Python, Machine Learning, Data Analysis, and Artificial Intelligence.
+
+---
+
+## 🎓 Education
+
+🎓 **Diploma in Computer Engineering**
+
+📚 **AI & ML with Data Science**
+
+* Red & White Institute
+* Currently Learning Python, Data Science, Machine Learning & AI
 
 ---
 
 ## 🌱 Currently Learning
-- Python Basics
-- Data Structures
-- NumPy
-- Pandas
-- Data Visualization
+
+* Python Programming
+* Data Structures & Algorithms
+* NumPy
+* Pandas
+* Data Visualization
+* Machine Learning
+* Artificial Intelligence
+* Data Science Fundamentals
 
 ---
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-Beginner-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* PHP
+* JavaScript
+* HTML5
+* CSS3
+* SQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* MySQL
+* VS Code
+* XAMPP
 
 ---
 
-## 📚 Goals for 2026
-- Complete Python Programming
-- Learn Data Analysis
-- Build Data Science Projects
-- Learn Machine Learning
-- Contribute to Open Source
+## 🚀 Featured Projects
+
+### 🌐 Perfume Palace
+
+An e-commerce website for perfume products with a modern user interface.
+
+🔗 https://perfume-palace.42web.io/perf/?i=1
+
+### 🧪 Ocean Biochem
+
+A professional business website developed for Ocean Biochem.
+
+🔗 https://oceanbiochem.co.in/
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Current Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/avinash-365
+* Master Python Programming
+* Build Data Science Projects
+* Learn Machine Learning Algorithms
+* Explore Deep Learning
+* Contribute to Open Source
+* Become an AI Engineer
 
 ---
 
-⭐ Always learning, always improving.
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avinash-365&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-365&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [23020201164@darshan.ac.in](mailto:23020201164@darshan.ac.in)
+
+💼 LinkedIn: www.linkedin.com/in/avinash-vaghasiya-023387413
+
+🌐 Portfolio Projects:
+
+* Perfume Palace
+* Ocean Biochem
+
+---
+
+<div align="center">
+
+### ✨ "Learning Today, Building Tomorrow." ✨
+
+</div>
