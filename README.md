@@ -44,6 +44,17 @@
 
 ---
 
+## 🏅 Google Cloud & AI Badges
+
+<p align="left">
+  <!-- નોંધ: આ ગૂગલના સત્તાવાર ઈમેજ યુઆરએલ છે. જો ભવિષ્યમાં ઈમેજ ન દેખાય, તો તારી પબ્લિક પ્રોફાઈલમાંથી ઈમેજ લિંક કોપી કરીને src="" માં બદલી શકે છે. -->
+  <img src="https://cdn.qwiklabs.com/images/cloudskillsboost/public/badges/google_cloud_skills_boost.png" width="110" alt="Google Skills" style="margin-right: 10px;"/>
+  <img src="https://cdn.qwiklabs.com/images/cloudskillsboost/public/badges/gemini_enterprise_agent_ready.png" width="110" alt="Gemini Enterprise Agent Ready" style="margin-right: 10px;"/>
+  <img src="https://cdn.qwiklabs.com/images/cloudskillsboost/public/badges/google_developer_program_premium.png" width="110" alt="Google Developer Program Premium Tier" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛍️ Perfume Palace
